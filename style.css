@@ -1,3 +1,111 @@
 body{
+    margin-top: 5%;
     font-family: 'Amarante', cursive;
+}
+h1{
+    font-size: 40px;
+}
+.highlight{
+    color: gold;
+}
+p{
+    font-size: medium;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half img{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, peru, purple) ;
+    background-color: purple ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.latest{
+    color: maroon;
+}
+.bottom-project{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 40px;
+}
+.ileft img{
+    width: 80%;
+    margin-left: 5%;
+    border-radius: 10x;
+    height: 100px;
+    
+}
+.ileft{
+    margin-left: 5%;
+    padding-left: 10px;
+    
+}
+.left{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 40%;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 5%;
+    float: left;
+}
+.imajh img{
+    width: 80%;
+    margin-left: 5%;
+    height: 100px;
+    
+}
+.imajh{
+    margin-left: 5%;
+}
+.majh{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 80%;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 5%;
+    margin-left: 40%;
+    
+   
+}
+.iright img{
+    width: 80%;
+    margin-left: 5%;
+    height: 100px;
+}
+.iright{
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.right{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 80%;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 5%;
+    margin-left: 80%;
+    float: right;
+}
+.bi{
+    width: 50px;
+    margin: auto;
 }
